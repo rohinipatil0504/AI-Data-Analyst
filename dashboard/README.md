@@ -159,13 +159,13 @@ AI_Data_Analyst/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clonegit clone https://github.com/rohinipatil0504/AI-Data-Analyst.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd AI_Data_Analyst
+cd AI-Data-Analyst
 ```
 
 ### 3. Create virtual environment
