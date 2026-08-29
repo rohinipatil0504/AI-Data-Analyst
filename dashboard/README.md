@@ -159,7 +159,7 @@ AI_Data_Analyst/
 ### 1. Clone the repository
 
 ```bash
-git clonegit clone https://github.com/rohinipatil0504/AI-Data-Analyst.git
+git clone https://github.com/rohinipatil0504/AI-Data-Analyst.git
 ```
 
 ### 2. Open the project
